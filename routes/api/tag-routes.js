@@ -22,7 +22,14 @@ router.put('/:id', (req, res) => {
 });
 
 router.delete('/:id', (req, res) => {
-  // delete on tag by its `id` value
+  // delete a tag by its `id` value
 });
 
 module.exports = router;
+
+
+// find all tags 
+// find single tag by id
+// create new tag
+// update tag name by id
+// delete tag by id

@@ -26,3 +26,10 @@ router.delete('/:id', (req, res) => {
 });
 
 module.exports = router;
+
+
+// find all categories
+// find one category by id
+// create new category
+// update category by id
+// delete category by id
