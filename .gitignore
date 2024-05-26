@@ -1,3 +1,5 @@
 node_modules
 .env
 .DS_Store
+insomnia-collection-ecommerce-api.json
+package-lock.json
