@@ -30,9 +30,7 @@ SO THAT my company can compete with other e-commerce companies
 
 Watch the video demo!
 
-<!-- <video width="600" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-</video> -->
+https://drive.google.com/file/d/1-1AmLEhVWkWKlDL0ZkqbD1u9P0YpIUrw/view
 
 
 
